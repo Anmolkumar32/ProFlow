@@ -1,0 +1,15 @@
+.Join{
+    margin-top: 30px;
+    width: 160px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    color: #FFFFFFFF;
+    background: #D87385FF;
+    border: none;
+    border-radius: 10px;
+}
+
